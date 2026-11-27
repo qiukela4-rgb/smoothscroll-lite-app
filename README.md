@@ -1,6 +1,6 @@
 # SmoothScroll Lite
 
-![version](https://img.shields.io/badge/version-1.3.9-blue) ![release](https://img.shields.io/github/v/release/qiukela4-rgb/smoothscroll-lite-app) ![platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+![version](https://img.shields.io/badge/version-1.3.10-blue) ![release](https://img.shields.io/github/v/release/qiukela4-rgb/smoothscroll-lite-app) ![platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 
 Windows 滚轮平滑引擎：把鼠标滚轮刻度拆成亚格脉冲，按 200Hz 节拍投递，
 让各类桌面应用得到连续、可调的滚动手感。单文件绿色版，双击即用，托盘常驻。
@@ -14,7 +14,7 @@ Windows 滚轮平滑引擎：把鼠标滚轮刻度拆成亚格脉冲，按 200Hz
 
 ## 下载
 
-- [v1.3.9 单文件 exe](https://github.com/qiukela4-rgb/smoothscroll-lite-app/releases/download/v1.3.9/SmoothScroll-Lite-v1.3.9.exe)
+- [v1.3.10 单文件 exe](https://github.com/qiukela4-rgb/smoothscroll-lite-app/releases/download/v1.3.10/SmoothScroll-Lite-v1.3.10.exe)
 - [全部发布版本](https://github.com/qiukela4-rgb/smoothscroll-lite-app/releases)
 
 ## 主要功能
